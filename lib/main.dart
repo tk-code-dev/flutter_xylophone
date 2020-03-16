@@ -15,6 +15,9 @@ class XylophoneApp extends StatelessWidget {
       child: Expanded(
         child: FlatButton(
           color: color,
+          shape: RoundedRectangleBorder(
+              borderRadius: new BorderRadius.circular(18.0),
+              side: BorderSide(color: Colors.white)),
           onPressed: () {
             playSound(soundNum);
           },
