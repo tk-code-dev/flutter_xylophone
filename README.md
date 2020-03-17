@@ -1,16 +1,13 @@
 # flutter_xylophone
 
-A new Flutter application.
 
-## Getting Started
+<img src="xylophone_img.png" width="200px">
 
-This project is a starting point for a Flutter application.
+## flutter plugins
+- audioplayers
 
-A few resources to get you started if this is your first Flutter project:
+## Create a rounded button / button with border-radius in Flutter
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://stackoverflow.com/questions/49991444/create-a-rounded-button-button-with-border-radius-in-flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
