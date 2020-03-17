@@ -11,7 +11,7 @@ class XylophoneApp extends StatelessWidget {
 
   Container buildKey({Color color, int soundNum}) {
     return Container(
-      margin: const EdgeInsets.only(top: 10.0),
+      margin: const EdgeInsets.fromLTRB(25, 10, 25, 0),
       child: Expanded(
         child: FlatButton(
           color: color,
